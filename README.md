@@ -1,2 +1,18 @@
-# cartpole-balancing-bot-train-an-agent-using-q-learning-
-cartpole balancing bot: train an agent using q learning to balance a cartpole in an open ai gym enviroment
+# CartPole Bot using Neural Networks
+
+A simple network that can learn to balance a pole using reinforcement learning using Tensorflow
+
+
+### Results
+
+Results while Training
+
+| Best Score (frames survived) | Episodes |
+| ------ | ------ |
+| 19 | 1 |
+| 37 | 43 |
+| 46 | 95 |
+| 99 | 530 |
+| 121 | 1000 |
+| 276 | 1200 |
+| 398 | 2200 |
